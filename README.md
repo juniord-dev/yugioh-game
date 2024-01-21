@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="#">
-    <img src="#" width="550">
+  <a href="https://juniord-dev.github.io/yugioh-game/">
+    <img src="./src/assets/yugioh-game.png" width="650">
   </a>
 </p>
 
@@ -35,7 +35,7 @@ A cada início de jogo você receberá 5 cartas aleatórias, contendo uma das cl
 
 Escolha sua carta e aposte contra a máquina para ver quem vence o jo-ken-po! Derrote seu oponente pelo menos 3 vezes para vencer.
 
-Para jogar basta clicar <a href="#">AQUI</a>!
+Para jogar basta clicar <a href="https://juniord-dev.github.io/yugioh-game/">AQUI</a>!
 
 ## A ser implementado:
 
